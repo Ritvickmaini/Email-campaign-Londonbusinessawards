@@ -74,12 +74,17 @@ def generate_email_html(
                 </table>
 
                 <p style="margin-top:25px;font-weight:bold">
-                  Scott<br/>
-                  Sales Director<br/>
+                  Regards<br/>
+                  Customer Success Team<br/>
+                  London Business Awards</br>
+                  (+44) 2034517166<br/>
                   3–4 March 2026 | London Olympia<br/>
+                  <br/>
+                  On Behalf of<br/>
+                  Scott<br/>
+                  Show Director<br/>
                   <a href="mailto:scott@londonbusinessaward.com"
                      style="color:#D7262F">scott@londonbusinessaward.com</a><br/>
-                  (+44) 2034517166
                 </p>
 
                 <p style="font-size:11px;color:#888;margin-top:30px">
